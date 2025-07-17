@@ -1,6 +1,7 @@
 # Vision–Language–Action (VLA) Models in Robotics
 
-This repository was developed alongside the paper **“Vision–Language–Action (VLA) Models in Robotics”** and provides a living catalog of:
+This repository was developed alongside the paper **“Vision–Language–Action (VLA) Models in Robotics”** ([arXiv:2507.10672](https://arxiv.org/pdf/2507.10672)) and provides a living catalog of:
+
 
 - **VLA Models**  
   Key vision–language–action architectures, with publication year, core capabilities, training datasets, robot platforms, summary descriptions, and links to the original papers and project websites.
